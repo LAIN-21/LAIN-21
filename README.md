@@ -1,16 +1,23 @@
-## Hi there 👋
+# Luis Infante
 
-<!--
-**LAIN-21/LAIN-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Quantitative Finance & AI  
+IE University — Computer Science & Artificial Intelligence (2027)
 
-Here are some ideas to get you started:
+I build and test systematic strategies, design risk-aware portfolios, and turn research into deployable trading infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Work
+- Time Series Momentum & cross-asset strategies
+- Correlation clustering & uncorrelated portfolio construction
+- Monte Carlo risk simulation (multi-asset, extreme scenarios)
+- MyTraderPal — trading journal & analytics SaaS
+
+## Stack
+Python · NumPy · Pandas · Riskfolio-Lib  
+FastAPI · React · AWS (CDK, Lambda, DynamoDB)  
+Backtesting · Volatility scaling · Risk metrics
+
+---
+
+Financial theory → data → signal → risk → deployment.
+
+X: https://x.com/LAIN_2105
